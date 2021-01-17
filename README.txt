@@ -1,12 +1,12 @@
+# grit-html
+HTML version of Grit
+Designed by Dcrazed.com
+https://dcrazed.com/grit-creative-website-template/ 
 
-Credits:
+#License
+Free for using on your website and client projects. 
+Please don't sell this template. Why? Its free. Share it.
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+#WordPress
+Need WordPress version? Look out for it in 
+https://dcrazed.com/themes/
